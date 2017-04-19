@@ -14,6 +14,14 @@ O Sistema de controle de versão escolhido para o trabalho é o GitHub
 
 GIT, SVN, GCS, Versionamento, Repositório, GITHUB, SubVersion, artefatos, Controle de versão, baseline
 
+## Membros
+* Diogo Jayme 
+* Augusto César
+
+## Email Professor
+
+ rubenscp@gmail.com.
+ 
 ## Licença 
 
 Copyright 2017
