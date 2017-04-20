@@ -1,4 +1,10 @@
 Nome artefato: doc-requisitos-01.01.txt
 Nome do(a) autor(a): Augusto César Freitas e Silva
+Empresa: Empresa Fantasma 1
 Data de criação: 20/04/2017
 Hora de criação: 15:19:00
+
+Nome artefato: doc-requisitos-01.01.txt
+Nome do(a) autor(a) da alteração: Diogo Jayme
+Data da alteração: 20/04/2017
+Hora da alteração: 03:32:00
