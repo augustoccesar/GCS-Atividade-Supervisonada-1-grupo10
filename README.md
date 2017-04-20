@@ -17,6 +17,7 @@ GIT, SVN, GCS, Versionamento, Repositório, GITHUB, SubVersion, artefatos, Contr
 ## Membros
 * Diogo Jayme 
 * Augusto César
+* Dyego Specyais
 
 ## Email Professor
 
