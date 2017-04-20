@@ -1,0 +1,9 @@
+Nome artefato: doc-planejamento-01.txt
+Nome do(a) autor(a): Augusto César Freitas e Silva
+Data de criação: 20/04/2017
+Hora de criação: 15:03:00
+
+Nome artefato: doc-planejamento-01.01.txt
+Nome do(a) autor(a) da alteração: Diogo Jayme
+Data da alteração: 20/04/2017
+Hora da alteração: 03:09:00
