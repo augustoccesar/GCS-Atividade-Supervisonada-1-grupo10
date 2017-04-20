@@ -1,6 +1,6 @@
 Nome artefato: doc-requisitos-03.01.txt
 Nome do(a) autor(a): Diogo Jayme
 Data de criação: 20/04/2017
-Hora de criação: 03:47:00
+Hora de criação: 03:29:00
 
-Documento criado no trunk
+Documento criado no ramo2
